@@ -1,8 +1,8 @@
-const CACHE_NAME = 'memory-game-' + "e1d90ae0a7be";
+const CACHE_NAME = 'memory-game-' + "5c275e261424";
 const ASSETS = [
   "/assets/icon-192-B2VyLwMa.png",
-  "/assets/index-CFkHQ0Rg.css",
-  "/assets/index-IGp8ptmr.js",
+  "/assets/index-86SH7JJf.css",
+  "/assets/index-CxPsMUk1.js",
   "/assets/manifest-Bp7WjCGY.json",
   "/icons/icon-144.png",
   "/icons/icon-192.png",
