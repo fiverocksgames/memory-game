@@ -1,4 +1,4 @@
-const CACHE_NAME = 'memory-game-' + "26a6baf6a04f";
+const CACHE_NAME = 'memory-game-' + "44bd761bcd7e";
 const ASSETS = [
   "/assets/icon-192-B2VyLwMa.png",
   "/assets/index-DpaAxG7t.js",
@@ -12,7 +12,8 @@ const ASSETS = [
   "/icons/icon-72.png",
   "/icons/icon-96.png",
   "/index.html",
-  "/manifest.json"
+  "/manifest.json",
+  "/og-memory-game-v1.png"
 ];
 self.addEventListener('install', (event) => {
   self.skipWaiting();
