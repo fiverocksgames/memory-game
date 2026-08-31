@@ -1,4 +1,4 @@
-const CACHE_NAME = 'memory-game-' + "4ef582d9d585";
+const CACHE_NAME = 'memory-game-' + "faa7ef709ea7";
 const ASSETS = [
   "/assets/icon-192-B2VyLwMa.png",
   "/assets/index-DKji8MM1.js",
