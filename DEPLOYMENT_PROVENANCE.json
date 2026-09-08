@@ -1,12 +1,12 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/memory-game",
-    "sourceSha":  "148384fee3be29767a33fba3cd9cb3a5c0455f1d",
-    "releaseVersion":  "v0.2.1",
+    "sourceSha":  "d862326c2b0c3b9450f4a57554fe7f0804dd9841",
+    "releaseVersion":  "v1.0.0",
     "deploymentChannel":  "formal",
     "workflowName":  "Publish Formal Release",
-    "workflowRunId":  "34173320889",
-    "createdAt":  "2026-09-08T00:29:20.2999093Z",
+    "workflowRunId":  "34188279508",
+    "createdAt":  "2026-09-08T04:51:13.9641114Z",
     "files":  [
                   {
                       "path":  ".nojekyll",
@@ -17,28 +17,12 @@
                       "sha256":  "05c0e12f30fcf68aa8a67979a3afb36dc1c7080ef1f3d285588ff0a5dc177442"
                   },
                   {
-                      "path":  "assets/index-BoomgIYp.css",
-                      "sha256":  "09e44bd51410a7daeb3957a5515e56e558c822eb080363a39b5cc52703e602dd"
+                      "path":  "assets/index-987q2_t2.js",
+                      "sha256":  "f6b5e66c45ee46a163268f8ccf1fc8ecc5f5961b56ac7256848dbf48d2325222"
                   },
                   {
-                      "path":  "assets/index-Ct6vvu65.js",
-                      "sha256":  "644acbc1c1778de4a8219de2e3b179c1ef57f8183dc8b12ce621accb41e0b17d"
-                  },
-                  {
-                      "path":  "assets/index-DKji8MM1.js",
-                      "sha256":  "a80b1c1675bbbf4764cd3e508ad71ffcbd56635b4899f82d6b9135adb352abfc"
-                  },
-                  {
-                      "path":  "assets/index-eIyuKbNm.css",
-                      "sha256":  "ab7d8f5dc6b4706d54ec4aaac555690e25289a81051dafe6445b06d3eeef786c"
-                  },
-                  {
-                      "path":  "assets/index-TFZ1xyRu.js",
-                      "sha256":  "2b6b10f1996eb58f27c82b19fe8d40f758d26d7275272113ce558bdd425dd8b7"
-                  },
-                  {
-                      "path":  "assets/index-XeCc8B_M.js",
-                      "sha256":  "69a3a35c564d5717785702e8c99fef10335a8c5019df400de4a14a98b38467db"
+                      "path":  "assets/index-DWQgYwLz.css",
+                      "sha256":  "8e59e7afe8a9316236451c511e977b6171b755b516511ebbc03c16142567efec"
                   },
                   {
                       "path":  "assets/manifest-Bp7WjCGY.json",
@@ -74,7 +58,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "1782a99370f9e7c2d171788453e63f00549a5fae6e6178bed8cdead565b4c3ae"
+                      "sha256":  "1f144e1c43c444bc0d0a15089fb5f78bbe8312a9f0634acfbed01bd839c34a77"
                   },
                   {
                       "path":  "manifest.json",
@@ -86,7 +70,7 @@
                   },
                   {
                       "path":  "sw.js",
-                      "sha256":  "fbe3cef75952b485af46e5c4b835bfd8bfe520c709711516b4261aae39fd8571"
+                      "sha256":  "32bb2b720b1ddb06f5d469050e5612ca4568e5eb7b4e366c965c655836e8faa0"
                   }
               ]
 }
