@@ -1,0 +1,74 @@
+﻿{
+    "schemaVersion":  1,
+    "sourceRepository":  "fiverocks-dev/memory-game",
+    "sourceSha":  "d5865ddbdbc081f40dd23a2e3bb211c12f461c39",
+    "prNumber":  27,
+    "workflowRunId":  "36503283893",
+    "createdAt":  "2026-09-29T00:32:50.0204286Z",
+    "files":  [
+                  {
+                      "path":  "assets/icon-192-B2VyLwMa.png",
+                      "sha256":  "05c0e12f30fcf68aa8a67979a3afb36dc1c7080ef1f3d285588ff0a5dc177442"
+                  },
+                  {
+                      "path":  "assets/index-DAM9hWGc.js",
+                      "sha256":  "c265897e8769f3c43fa57fc57e35768dbde3bcb4d5d49f1edf265d4fb1729daa"
+                  },
+                  {
+                      "path":  "assets/index-fu8ts5cJ.css",
+                      "sha256":  "ca201fd03af19acc7211adc72869bd15467c78872ed8ddb34dfa46bd39d2032b"
+                  },
+                  {
+                      "path":  "assets/manifest-Bp7WjCGY.json",
+                      "sha256":  "af3ce354c4dbacc1ebed389f963e877ff6c1c4868bc4cb55e053158cc0067c7e"
+                  },
+                  {
+                      "path":  "DEPLOYMENT_PROVENANCE.json",
+                      "sha256":  "4a65bf0e23594c683c70de73cfd302500aa79c2cf2cb05bf48a60471b7cde968"
+                  },
+                  {
+                      "path":  "icons/icon-144.png",
+                      "sha256":  "129e21d29263883d89c9a9e6029c4dffe635729cf01cd27afd55ba74348364ea"
+                  },
+                  {
+                      "path":  "icons/icon-192.png",
+                      "sha256":  "05c0e12f30fcf68aa8a67979a3afb36dc1c7080ef1f3d285588ff0a5dc177442"
+                  },
+                  {
+                      "path":  "icons/icon-36.png",
+                      "sha256":  "a8bbbae40f78760e78517cea4caef75334a527d64686e566dca24233942d0454"
+                  },
+                  {
+                      "path":  "icons/icon-48.png",
+                      "sha256":  "6ef7d348bad5e72149f04665c93affe56eb581e80d12ce19b861bdfa597c3ffe"
+                  },
+                  {
+                      "path":  "icons/icon-512.png",
+                      "sha256":  "a04eace5f65616c98234e1edeac8a55058b1f919042729fb5f764c43584103cd"
+                  },
+                  {
+                      "path":  "icons/icon-72.png",
+                      "sha256":  "b29acc7640678aa93e3683f639b4513c7021cbaa3a7268d8c0adbfe34a19b45f"
+                  },
+                  {
+                      "path":  "icons/icon-96.png",
+                      "sha256":  "7744edd14200ec1a91d57c7fb5e466e4d7e34380090b3109765f67fd80711ec4"
+                  },
+                  {
+                      "path":  "index.html",
+                      "sha256":  "99ffcc329e0143007f950704f40943cd865db8601747b6dae2730a1a14ad5057"
+                  },
+                  {
+                      "path":  "manifest.json",
+                      "sha256":  "af3ce354c4dbacc1ebed389f963e877ff6c1c4868bc4cb55e053158cc0067c7e"
+                  },
+                  {
+                      "path":  "og-memory-game-v1.png",
+                      "sha256":  "73c9d4da907ed8a691bbe5aa27cfbf7ccfa10c7c96ca89f7d3528c7ff0b01b9b"
+                  },
+                  {
+                      "path":  "sw.js",
+                      "sha256":  "e7680ab36bdc584e081d18f1eb4d19d9a34a061e27f4b33797437d295e1c3ea1"
+                  }
+              ]
+}
