@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/memory-game",
-    "sourceSha":  "92b24218a81cc054e9e7285966cd202475b7a48b",
+    "sourceSha":  "abcb443f9c2c32c7740d8efc1936d2306f983c17",
     "workflowName":  "Source CI",
-    "workflowRunId":  "36572367994",
+    "workflowRunId":  "36652261099",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-09-29T13:07:36.3732450Z",
+    "createdAt":  "2026-09-30T00:52:01.4457633Z",
     "toolchain":  "vite-react-typescript",
     "files":  [
                   {
@@ -13,8 +13,8 @@
                       "sha256":  "05c0e12f30fcf68aa8a67979a3afb36dc1c7080ef1f3d285588ff0a5dc177442"
                   },
                   {
-                      "path":  "assets/index-CyDv0Cee.js",
-                      "sha256":  "70435e7e078a7fdc03f74c46ce69d47a35c04b7b0d5ff10ca5ac1bc6fb10169b"
+                      "path":  "assets/index-Cv0-MAck.js",
+                      "sha256":  "85f8b9ed20479e15d6378a9d8dc42e1c2b205536474e25e747dc2a25ad5ecf8c"
                   },
                   {
                       "path":  "assets/index-DcPKhXPJ.css",
@@ -23,6 +23,14 @@
                   {
                       "path":  "assets/manifest-Bp7WjCGY.json",
                       "sha256":  "af3ce354c4dbacc1ebed389f963e877ff6c1c4868bc4cb55e053158cc0067c7e"
+                  },
+                  {
+                      "path":  "audio/bgm/forest.ogg",
+                      "sha256":  "ac6930503f67e763868af33589fea1c8bed84c1953b4f565444b0cb37816ef9e"
+                  },
+                  {
+                      "path":  "audio/bgm/happy.ogg",
+                      "sha256":  "73d864716cec8873e27c1a21ae800cb03cf34b25dfbbb792e3e8289e3792c2cf"
                   },
                   {
                       "path":  "icons/icon-144.png",
@@ -54,7 +62,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "6aedc4ebbf2b0941d8264dba70a0bffb7b16f34cded0aaebb4ea929bd982577f"
+                      "sha256":  "a2ab0d171d9ffa920adb5347ee4ec691dadfa28c9b964e7f8450db7fa5733cab"
                   },
                   {
                       "path":  "manifest.json",
@@ -66,7 +74,7 @@
                   },
                   {
                       "path":  "sw.js",
-                      "sha256":  "c6b47ee8d6a94908f36913f52027f49f5156746c0ca0acdf8995131b9086e7ee"
+                      "sha256":  "6d9c294c2fba1525fb169ffd22395a34c6d707e800f2ef1c98bf90d76f17f750"
                   }
               ]
 }
