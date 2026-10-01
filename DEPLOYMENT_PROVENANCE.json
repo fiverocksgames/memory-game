@@ -1,12 +1,12 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/memory-game",
-    "sourceSha":  "d862326c2b0c3b9450f4a57554fe7f0804dd9841",
-    "releaseVersion":  "v1.0.0",
+    "sourceSha":  "43f0a17a7b601324725068b4397679f53337b298",
+    "releaseVersion":  "v1.0.1",
     "deploymentChannel":  "formal",
     "workflowName":  "Publish Formal Release",
-    "workflowRunId":  "34188279508",
-    "createdAt":  "2026-09-08T04:51:13.9641114Z",
+    "workflowRunId":  "36841218357",
+    "createdAt":  "2026-10-01T09:15:03.2566423Z",
     "files":  [
                   {
                       "path":  ".nojekyll",
@@ -17,16 +17,24 @@
                       "sha256":  "05c0e12f30fcf68aa8a67979a3afb36dc1c7080ef1f3d285588ff0a5dc177442"
                   },
                   {
-                      "path":  "assets/index-987q2_t2.js",
-                      "sha256":  "f6b5e66c45ee46a163268f8ccf1fc8ecc5f5961b56ac7256848dbf48d2325222"
+                      "path":  "assets/index-VAW_sIE4.js",
+                      "sha256":  "796cb241755bc200ff5d33d02e04440a1676720745384cc8ff3f9ff333981732"
                   },
                   {
-                      "path":  "assets/index-DWQgYwLz.css",
-                      "sha256":  "8e59e7afe8a9316236451c511e977b6171b755b516511ebbc03c16142567efec"
+                      "path":  "assets/index-X0Y9UHJw.css",
+                      "sha256":  "ad68699e4f3d1d55f361372af0163fdf44188057f20d44ba3a22b6cb684cee67"
                   },
                   {
                       "path":  "assets/manifest-Bp7WjCGY.json",
                       "sha256":  "af3ce354c4dbacc1ebed389f963e877ff6c1c4868bc4cb55e053158cc0067c7e"
+                  },
+                  {
+                      "path":  "audio/bgm/forest.ogg",
+                      "sha256":  "ac6930503f67e763868af33589fea1c8bed84c1953b4f565444b0cb37816ef9e"
+                  },
+                  {
+                      "path":  "audio/bgm/happy.ogg",
+                      "sha256":  "73d864716cec8873e27c1a21ae800cb03cf34b25dfbbb792e3e8289e3792c2cf"
                   },
                   {
                       "path":  "icons/icon-144.png",
@@ -58,7 +66,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "1f144e1c43c444bc0d0a15089fb5f78bbe8312a9f0634acfbed01bd839c34a77"
+                      "sha256":  "7ff9840f1d55aa84b8830ed2502e0372424a2ba1658e8fbdeb2ee60c394f96e8"
                   },
                   {
                       "path":  "manifest.json",
@@ -70,7 +78,7 @@
                   },
                   {
                       "path":  "sw.js",
-                      "sha256":  "32bb2b720b1ddb06f5d469050e5612ca4568e5eb7b4e366c965c655836e8faa0"
+                      "sha256":  "325927247ca862345278b640a6ee37b997efab7eabbaa6f7eea2226add0360dc"
                   }
               ]
 }
