@@ -1,12 +1,12 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/memory-game",
-    "sourceSha":  "43f0a17a7b601324725068b4397679f53337b298",
-    "releaseVersion":  "v1.0.1",
+    "sourceSha":  "afdb3ce5f968a8fa9d57350629755034c42cff90",
+    "releaseVersion":  "v1.0.2",
     "deploymentChannel":  "formal",
     "workflowName":  "Publish Formal Release",
-    "workflowRunId":  "36841218357",
-    "createdAt":  "2026-10-01T09:15:03.2566423Z",
+    "workflowRunId":  "37323972042",
+    "createdAt":  "2026-10-05T14:24:17.2772139Z",
     "files":  [
                   {
                       "path":  ".nojekyll",
@@ -17,8 +17,8 @@
                       "sha256":  "05c0e12f30fcf68aa8a67979a3afb36dc1c7080ef1f3d285588ff0a5dc177442"
                   },
                   {
-                      "path":  "assets/index-VAW_sIE4.js",
-                      "sha256":  "796cb241755bc200ff5d33d02e04440a1676720745384cc8ff3f9ff333981732"
+                      "path":  "assets/index-Dj3dN1a_.js",
+                      "sha256":  "a4114ce6582353a4a24213f5dfc566f0fd1208027c27c59fe79de6d0272cf5da"
                   },
                   {
                       "path":  "assets/index-X0Y9UHJw.css",
@@ -66,7 +66,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "7ff9840f1d55aa84b8830ed2502e0372424a2ba1658e8fbdeb2ee60c394f96e8"
+                      "sha256":  "c2c3757bce935dfd42ebb342a68970d50e50ecf7f42ab239f7ffa98ab050265d"
                   },
                   {
                       "path":  "manifest.json",
@@ -78,7 +78,7 @@
                   },
                   {
                       "path":  "sw.js",
-                      "sha256":  "325927247ca862345278b640a6ee37b997efab7eabbaa6f7eea2226add0360dc"
+                      "sha256":  "02e5b112531faabfb2e1f4b71153157dfcf10cd352e177846ccd76200fe71b6c"
                   }
               ]
 }
